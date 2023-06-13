@@ -1,7 +1,6 @@
 # Ex:Phiedit  |  An efficient Phigros fanmade chart editing program based on Re:Phiedit
 
-### - 
-### - 
+### ----------------------------------------------------------------------------------------
 # Ex:Phiedit 使用许可
 使用前请先认真阅读本段内容！
 
