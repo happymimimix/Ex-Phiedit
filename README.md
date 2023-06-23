@@ -3,13 +3,13 @@
 ## News: Ex:Phiedit v4.0 is finally completed!!! 
 
 ### Huge UI improvement!!! 
-### When you look at it, you wanna lick it! 
+##### When you look at it, you wanna lick it! 
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/2066b72a-ee58-448a-9f3a-9ad656983bae)
 
 ### Even more performance boost! 
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/330695b3-405d-405c-a57c-156df410a6e3)
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/76df8090-eadb-47de-aadf-ea1f9b8d21d6)
-### More than a hundred thousand notes can be handled now! 
+##### More than a hundred thousand notes can be handled now! 
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/62467f3a-6fb1-487b-b89b-fecaa281caf5)
 
 ### Customizable FPS!!! 
