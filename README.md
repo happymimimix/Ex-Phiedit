@@ -18,6 +18,11 @@
 ### New advertisement video! 
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/35d7659b-d864-4951-87eb-5d23030b75bb)
 
+### We has finally got an english help document!!! YAY! 
+![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/ae58065f-b9e1-4fef-8156-84f2a25d5844)
+##### Why machine translated? 
+##### Because I'm too lazy. 
+##### If you want to make improvements on this document, you're welcome to do so. 
 
 # Join us
 If you know reverse engineering and want to support Ex:Phiedit to keep on getting better, please contact me on discord: happy_mimimix#4832. 
