@@ -1,7 +1,7 @@
 ## Ex:Phiedit  |  An efficient Phigros fanmade chart editing program based on Re:Phiedit 1.3.0
 
 ### Great thanks to @114514NotAvailable for continuing making the next big update of Ex:Phiedit after I've stopped updating it for a while. https://github.com/114514NotAvailable/Ex-Phiedit/releases
-##### What a nice fork 114514NotAvailable! 
+#### What a nice fork 114514NotAvailable! 
 
 ##### Advertisement video: https://www.bilibili.com/video/BV1aX4y1s71R
 
