@@ -5,9 +5,11 @@
 
 ### For mobile devices: https://github.com/sudo-000/XPE-Mobile
 
-##  
+##
 
 ##### Advertisement video: https://www.bilibili.com/video/BV1aX4y1s71R
+
+## Ex:Phiedit development hub: https://discord.gg/fgqdh8EqUq
 
 ## News: The new FPS config is now comming!!! (Bundled with XPE 4.0 Plus)
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/4bb55063-a87a-4162-8297-14239248bf28)
