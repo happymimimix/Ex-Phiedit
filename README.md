@@ -39,4 +39,4 @@
 ##### If you want to make improvements on this document, you're welcome to do so. 
 
 # Join us
-If you know reverse engineering and want to support Ex:Phiedit to keep on getting better, please contact me on discord: happy_mimimix#4832. 
+If you know reverse engineering and want to support Ex:Phiedit to keep on getting better, please join our discord server: https://discord.gg/fgqdh8EqUq 
