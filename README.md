@@ -10,14 +10,15 @@
 - **Get the latest news**
 - **Report bugs and suggest features**
 
-# 
 
-## News: The source code of the installer will be moved to releases from now on because of the 50 mb file size limit in the repo. While in releases you can go up to 2 GB! 
+# News: 
 
-## News: The new FPS config is now comming!!! (Bundled with XPE 4.0 Plus)
+### The source code of the installer will be moved to releases from now on because of the 50 mb file size limit in the repo. While in releases you can go up to 2 GB! 
+
+### The new FPS config is now comming!!! (Bundled with XPE 4.0 Plus)
 - ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/4bb55063-a87a-4162-8297-14239248bf28)
 
-## News: Ex:Phiedit v4.0 is finally completed!!! 
+### Ex:Phiedit v4.0 is finally completed!!! 
 
 - **Huge UI improvement!!!**
   - When you look at it, you wanna lick it! 
