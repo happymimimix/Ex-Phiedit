@@ -7,10 +7,10 @@
 
 
 # Ex:Phiedit development hub: https://discord.gg/fgqdh8EqUq 
-**Get beta versions of Ex:Phiedit**
-**Chat with devdevelopers directly**
-**Get the latest news**
-**Report bugs and suggest features**
+- **Get beta versions of Ex:Phiedit**
+- **Chat with devdevelopers directly**
+- **Get the latest news**
+- **Report bugs and suggest features**
 
 ## News: The source code of the installer will be moved to releases from now on because of the 50 mb file size limit in the repo. While in releases you can go up to 2 GB! 
 
