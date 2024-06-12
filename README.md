@@ -34,6 +34,3 @@
 
 - **Customizable FPS!**
   - ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/6d27737f-8e39-4da0-97b3-183fd5354785)
-
-# Join us
-If you know reverse engineering and want to support Ex:Phiedit to keep on getting better, please join our discord server: https://discord.gg/fgqdh8EqUq 
