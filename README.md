@@ -3,9 +3,8 @@
 ### For mobile devices: https://github.com/sudo-000/XPE-Mobile
 
 #### Advertisement video: https://www.bilibili.com/video/BV1aX4y1s71R
-## 
 
-# Ex:Phiedit development hub: https://discord.gg/fgqdh8EqUq 
+## Ex:Phiedit development hub: https://discord.gg/fgqdh8EqUq 
 - **Get beta versions of Ex:Phiedit**
 - **Chat with devdevelopers directly**
 - **Get the latest news**
