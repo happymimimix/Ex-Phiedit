@@ -1,7 +1,4 @@
-## Ex:Phiedit  |  Fanmade chart editor for Phigros! 
-
-### Great thanks to @114514NotAvailable for continuing making the next big update of Ex:Phiedit after I've stopped updating it for a while. https://github.com/114514NotAvailable/Ex-Phiedit/releases
-#### What a nice fork 114514NotAvailable! 
+# Ex:Phiedit  |  Fanmade chart editor for Phigros! 
 
 ### For mobile devices: https://github.com/sudo-000/XPE-Mobile
 
@@ -9,7 +6,11 @@
 ## 
 
 
-## Ex:Phiedit development hub: https://discord.gg/fgqdh8EqUq
+# Ex:Phiedit development hub: https://discord.gg/fgqdh8EqUq 
+**Get beta versions of Ex:Phiedit**
+**Chat with devdevelopers directly**
+**Get the latest news**
+**Report bugs and suggest features**
 
 ## News: The source code of the installer will be moved to releases from now on because of the 50 mb file size limit in the repo. While in releases you can go up to 2 GB! 
 
